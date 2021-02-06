@@ -4,7 +4,6 @@ import Showcase from '../components/Showcase';
 
 const HomePage = () => (
   <div>
-    <Navbar />
     <div className="main">
       <div className="showcase">
         <h2>Let's build something together.</h2>

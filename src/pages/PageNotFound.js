@@ -3,7 +3,6 @@ import Navbar from '../components/Navbar';
 
 const PageNotFound = () => (
   <div>
-    <Navbar />
     <div className="main">
     <div className="showcase">
         <h2>Oops!</h2>

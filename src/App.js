@@ -12,11 +12,13 @@ import AboutPage from './pages/AboutPage';
 import ProjectsPage from './pages/ProjectsPage';
 import ContactMe from './pages/ContactMe';
 import PageNotFound from './pages/PageNotFound';
+import Navbar from './components/Navbar';
 
 
 const App = () => {
   return (
     <Router>
+      <Navbar />
       <div>
         <Switch>
             <Route path="/" component={HomePage} exact />
