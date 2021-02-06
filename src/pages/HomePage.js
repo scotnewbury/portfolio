@@ -1,6 +1,4 @@
 import React from 'react';
-import Navbar from '../components/Navbar';
-import Showcase from '../components/Showcase';
 
 const HomePage = () => (
   <div>
@@ -16,10 +14,6 @@ const HomePage = () => (
           <i class="fab fa-react"></i>
           <i class="fab fa-wordpress"></i>
         </div>
-        {/* <div className="showcase__buttons">
-          <button className="showcase__btn-services">PROJECTS</button>
-          <button className="showcase__btn-about">ABOUT ME</button>
-        </div> */}
       </div>
     </div>
   </div>
