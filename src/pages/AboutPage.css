@@ -1,0 +1,78 @@
+.aboutpage {
+  max-width: 800px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  /* background-color: skyblue; */
+}
+
+.aboutpage h1 {
+  font-size: 64px;
+  color: white;
+  font-weight: normal;
+  letter-spacing: 3px;
+  text-align: left;
+  /* background-color: slateblue; */
+}
+
+.aboutscot {
+  display: flex;
+  /* background-color: sienna; */
+}
+
+.aboutinfo {
+  display: flex;
+  flex-direction: column;
+  padding: 5px 10px 10px 20px;
+  /* background-color: teal; */
+}
+
+.aboutscot img {
+  width: 250px;
+}
+
+.aboutinfo h2 {
+  font-size: 28px;
+  color: white;
+  letter-spacing: 1px;
+}
+
+.aboutinfo h3 {
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  padding-top: 5px;
+}
+
+.aboutinfo p {
+  color: white;
+  font-size: 16px;
+  margin: 10px 0 15px 0;
+  /* background-color: sienna; */
+}
+
+.buttons {
+  padding: 10px;
+}
+
+.buttons a {
+  margin: 10px;
+}
+
+@media screen and (max-width: 850px) {
+  .aboutscot {
+    flex-direction: column;
+  }
+
+  .aboutscot img {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .aboutscot h2, h3 {
+    text-align: center;
+  }
+}
