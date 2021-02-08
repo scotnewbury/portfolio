@@ -20,7 +20,7 @@ const  AboutPage = () => (
             </div>
         </div>
         <div className="buttons">
-          <a href={resume} className="btn btn-success" download="Scot-Newbur-Resume">Download My Resume</a>
+          <a href={resume} className="btn btn-success" download="Scot-Newbury-Resume">Download My Resume</a>
           <a href="/projects" className="btn btn-success">View My Projects</a><br />
         </div>
       </div>
