@@ -8,9 +8,9 @@ const HomePage = () => (
         
         <h1>Scot Newbury</h1>
         <h2>FrontEnd and WordPress Web Developer</h2>
-        <div className="skillicons">
-          <i className="fab fa-github"></i>
-          <i className="fab fa-linkedin"></i>
+        <div>
+          <a href="https://github.com/scotnewbury" target="_blank"><i className="fab fa-github socialicons"></i></a>
+          <a href="https://www.linkedin.com/in/scotnewbury/" target="_blank"><i className="fab fa-linkedin socialicons"></i></a>
         </div>
       </div>
     </div>
