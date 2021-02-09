@@ -1,5 +1,6 @@
 {
-  "name": "portfolio",
+  "name": "scot-newbury-web-developer-portfolio",
+  "homepage": "https://portfolio.scotnewbury.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
