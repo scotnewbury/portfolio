@@ -150,4 +150,15 @@ navbar {
     background: rgb(50,111,142);
     height: 100vh;
   }
+
+  .showcase h1 {
+    font-size: 48px;
+  }
+
+  .showcase h2 {
+    letter-spacing: 2px;
+    text-align: center;
+    width: 95%;
+    padding-bottom: 5px;
+  }
 }

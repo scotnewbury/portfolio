@@ -6,6 +6,7 @@ const  AboutPage = () => (
   <div>
     <div className="main">
     <div className="aboutpage">
+      <h2></h2>
       <h1>About Me</h1>
         <div className="aboutscot">
             <img src="https://github.com/scotnewbury.png" />
