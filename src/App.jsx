@@ -12,7 +12,6 @@ import AboutPage from './pages/AboutPage';
 import ProjectsPage from './pages/ProjectsPage';
 import ContactMe from './pages/ContactMe';
 import PageNotFound from './pages/PageNotFound';
-import test from './pages/test';
 import Navbar from './components/Navbar';
 
 const App = () => {
@@ -25,7 +24,6 @@ const App = () => {
             <Route path="/about" component={AboutPage} />
             <Route path="/projects" component={ProjectsPage} />
             <Route path="/contactme" component={ContactMe} />
-            <Route path="/test" component={test} />
             <Route component={PageNotFound} />
         </Switch>
         </div>

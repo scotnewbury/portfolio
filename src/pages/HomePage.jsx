@@ -6,14 +6,10 @@ const HomePage = () => (
       <div className="showcase">
         
         <h1>Scot Newbury</h1>
-        <h2>Web Developer</h2>
-        <h2>Let's build something together.</h2>
+        <h2>FrontEnd and WordPress Web Developer</h2>
         <div className="skillicons">
-          <i class="fab fa-html5"></i>
-          <i class="fab fa-css3-alt"></i>
-          <i class="fab fa-js"></i>
-          <i class="fab fa-react"></i>
-          <i class="fab fa-wordpress"></i>
+          <i className="fab fa-github"></i>
+          <i className="fab fa-linkedin"></i>
         </div>
       </div>
     </div>

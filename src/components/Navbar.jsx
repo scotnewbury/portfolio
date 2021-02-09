@@ -20,7 +20,7 @@ const Navbar = () => {
   }
 
   return (
-    <navbar>
+    <div className="navbar">
       <div className="logo">
         <i className='fa fa-laptop'></i>
         <h4>Scot Newbury</h4>
@@ -34,7 +34,7 @@ const Navbar = () => {
       <div onClick={handleNavLinksToggle} className="hamburger-toggle">
         <i className="fas fa-bars fa-lg"></i>
       </div>
-    </navbar>
+    </div>
   )
 }
 
