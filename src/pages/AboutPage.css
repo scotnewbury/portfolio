@@ -6,7 +6,6 @@
   justify-content: center;
   align-items: center;
   margin: 0 auto;
-  /* background-color: skyblue; */
 }
 
 .aboutpage h1 {
@@ -15,19 +14,16 @@
   font-weight: normal;
   letter-spacing: 3px;
   text-align: left;
-  /* background-color: slateblue; */
 }
 
 .aboutscot {
   display: flex;
-  /* background-color: sienna; */
 }
 
 .aboutinfo {
   display: flex;
   flex-direction: column;
   padding: 5px 10px 10px 20px;
-  /* background-color: teal; */
 }
 
 .aboutscot img {

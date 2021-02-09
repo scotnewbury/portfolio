@@ -1,4 +1,5 @@
 import React from 'react';
+import './ProjectsPage.css';
 import Cards from '../components/Cards/Cards'
 
 const ProjectsPage = () => (

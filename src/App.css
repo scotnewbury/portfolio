@@ -118,30 +118,6 @@ navbar {
   margin: 0px 10px;
 }
 
-.projectpage {
-  max-width: 800px;
-  height: 30vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  margin: 0 auto;
-}
-
-.projectpage h1 {
-  font-size: 64px;
-  color: white;
-  font-weight: normal;
-  letter-spacing: 3px;
-  text-align: center;
-}
-
-.skillicons {
-  color: white;
-  font-size: 48px;
-  letter-spacing: 20px;
-}
-
 @media screen and (max-width: 850px) {
   body {
     overflow-x: hidden;
