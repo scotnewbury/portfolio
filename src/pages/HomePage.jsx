@@ -1,6 +1,5 @@
 import React from 'react';
 import './HomePage.css';
-import VideoBackground from '../components/VideoBackground/VideoBackground';
 
 const HomePage = () => (
   <div>

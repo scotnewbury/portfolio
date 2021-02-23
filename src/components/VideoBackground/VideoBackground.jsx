@@ -1,6 +1,6 @@
 import React from 'react';
 import './VideoBackground.css';
-import bgVideo from '../../assets/video/mountain-and-fog.mp4';
+import bgVideo from '../assets/video/mountain-and-fog.mp4';
 
 const VideoBackground = () => {
   return (
