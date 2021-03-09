@@ -17,7 +17,7 @@ class Cards extends Component {
         <Card imgsrc={img1} title="St. Mark's Lodge Website" 
           cardtext="Created a custom WordPress theme including a hero image." 
           siteurl="https://stmarkslodge.org"
-          githubrepo="https://github.com/scotnewbury/st-marks-website-theme" />
+          githubrepo="https://github.com/scotnewbury/stmarks-wordpress-theme" />
         {/* <Card imgsrc={img3} /> */}
       </div>
     );
